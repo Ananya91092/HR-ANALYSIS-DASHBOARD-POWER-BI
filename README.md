@@ -79,5 +79,5 @@ The dashboard transforms raw employee data into actionable insights, enabling HR
 
 Screenshot/Demo
 
-![HR Dashboard]()
+![HR Dashboard](https://github.com/Ananya91092/HR-ANALYSIS-DASHBOARD-POWER-BI/blob/main/Screenshot%202026-03-14%20134021.png)
 
